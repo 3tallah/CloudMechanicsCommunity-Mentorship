@@ -47,7 +47,7 @@ If you're a community leader or contributor and want to support the Cloud Mechan
 | [Azure](content/03-azure.md) | Azure architecture lens, learning map sequence, and guided discussion prompts |
 | [Microsoft 365](content/04-m365.md) | Placeholder for upcoming Microsoft 365 track |
 | [Labs and Hands-on](content/05-labs.md) | Labs operating model with full AZ-104 lab and demonstration reference links |
-| [Learning Resources](content/06-learning-resources.md) | Curated Microsoft Learn paths/modules and Azure Administrator browse links |
+| [Learning Resources](content/06-learning-resources.md) | Curated Arabic and English learning catalog across Microsoft Learn, YouTube, Udemy, and labs |
 | [Certifications Path](content/07-certifications-path.md) | AZ-900/AZ-104/AZ-305 roadmap with direct cert and exam links |
 | [Session Recordings](content/08-session-recordings.md) | Recording index template and structure |
 | [Discussions](content/09-discussions.md) | Discussion rules plus Telegram topic quick links |
